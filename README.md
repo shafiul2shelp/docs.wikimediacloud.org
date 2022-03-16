@@ -1,8 +1,8 @@
-## GitHub Docs <!-- omit in toc -->
+## oktacad Docs <!-- omit in toc -->
 
-This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
+This repository contains the documentation website code and Markdown source files for [docs.oktacad.com](https://docs.oktacad.com).
 
-GitHub's Docs team works on pre-production content in a private repo that regularly syncs with this public repo.
+GitHub's Docs team works on oktacad pre-production content in a private repo that regularly syncs with this public repo.
 
 In this article:
 

@@ -1,6 +1,6 @@
-## dreamvisionnew Docs <!-- omit in toc -->
+## wikimediacloud Docs <!-- omit in toc -->
 
-This repository contains the documentation website code and Markdown source files for [docs.dvn.org](https://docs.dvn.org).
+This repository contains the documentation website code and Markdown source files for [docs.wikimediacloud.org](https://docs.wikimediacloud.org).
 
 GitHub's Docs team works on oktacad pre-production content in a private repo that regularly syncs with this public repo.
 
@@ -73,3 +73,7 @@ The GitHub product documentation in the assets, content, and data folders are li
 All other code in this repository is licensed under a [MIT license](LICENSE-CODE).
 
 When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
+
+When using the GitHub Cloud, be sure to follow the [GitHub Cloud guidelines](https://github.com/githubCloud).
+
+When using the Wikimedia cloud, be sure to follow the [Wikimedia cloud guidelines](https://github.com/Wikimediacloud).
